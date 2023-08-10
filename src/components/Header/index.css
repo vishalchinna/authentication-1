@@ -1,4 +1,27 @@
-/* Write your CSS code here */
-p {
-  color: red;
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nxt-logo {
+  height: 30px;
+}
+.nav-item-list {
+  list-style-type: none;
+  display: flex;
+}
+.nav-link {
+  text-decoration: none;
+  margin-left: 20px;
+  color: #64748b;
+}
+.btn {
+  margin-left: 20px;
+  background-color: #0b69ff;
+  color: white;
+  border-radius: 5px;
+  border-width: 0px;
+  font-size: 12px;
+  font-family: 'Bree serif';
+  padding: 3px 8px 3px 8px;
 }

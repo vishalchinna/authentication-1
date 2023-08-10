@@ -1,1 +1,35 @@
-/* Write your CSS code here */
+.bg-container {
+  padding: 10px 50px 20px 50px;
+}
+.home-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 70px;
+}
+.cloth-head {
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.intro-text {
+  width: 700px;
+}
+.information {
+  color: #64748b;
+  font-size: 12px;
+  font-family: 'Roboto';
+  line-height: 1.7;
+}
+.intro-logo {
+  height: 450px;
+}
+.shop-btn {
+  background-color: #0967d2;
+  color: #e6f6ff;
+  border-width: 0px;
+  padding: 7px 25px 7px 25px;
+  font-size: 9px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
